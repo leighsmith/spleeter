@@ -112,3 +112,9 @@ docs/build
 .vscode
 spleeter-feedstock/
 *FAKE_MUSDB_DIR
+
+# ignore configuration created during test run
+useless_config.json
+
+# ignore output folder and contents
+output/
